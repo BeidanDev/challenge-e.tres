@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbMvaF8PkGNpnMis8PLFSTzphAvNtnmed94aHDCujzmuP5XxmqzrXSe3NmujmZ9XUH8Gpqzd6wT2ekF5NGt8Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Varios\\F\\Desafios\\e-tres\\ChallengeETres\\ChallengeETres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

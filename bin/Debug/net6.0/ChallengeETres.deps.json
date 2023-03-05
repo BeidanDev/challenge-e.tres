@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ChallengeETres/1.0.0": {
+        "runtime": {
+          "ChallengeETres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChallengeETres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

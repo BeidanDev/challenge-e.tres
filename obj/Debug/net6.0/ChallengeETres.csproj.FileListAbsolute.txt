@@ -1,0 +1,15 @@
+C:\Varios\F\Desafios\e-tres\ChallengeETres\bin\Debug\net6.0\ChallengeETres.exe
+C:\Varios\F\Desafios\e-tres\ChallengeETres\bin\Debug\net6.0\ChallengeETres.deps.json
+C:\Varios\F\Desafios\e-tres\ChallengeETres\bin\Debug\net6.0\ChallengeETres.runtimeconfig.json
+C:\Varios\F\Desafios\e-tres\ChallengeETres\bin\Debug\net6.0\ChallengeETres.dll
+C:\Varios\F\Desafios\e-tres\ChallengeETres\bin\Debug\net6.0\ChallengeETres.pdb
+C:\Varios\F\Desafios\e-tres\ChallengeETres\obj\Debug\net6.0\ChallengeETres.csproj.AssemblyReference.cache
+C:\Varios\F\Desafios\e-tres\ChallengeETres\obj\Debug\net6.0\ChallengeETres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varios\F\Desafios\e-tres\ChallengeETres\obj\Debug\net6.0\ChallengeETres.AssemblyInfoInputs.cache
+C:\Varios\F\Desafios\e-tres\ChallengeETres\obj\Debug\net6.0\ChallengeETres.AssemblyInfo.cs
+C:\Varios\F\Desafios\e-tres\ChallengeETres\obj\Debug\net6.0\ChallengeETres.csproj.CoreCompileInputs.cache
+C:\Varios\F\Desafios\e-tres\ChallengeETres\obj\Debug\net6.0\ChallengeETres.dll
+C:\Varios\F\Desafios\e-tres\ChallengeETres\obj\Debug\net6.0\refint\ChallengeETres.dll
+C:\Varios\F\Desafios\e-tres\ChallengeETres\obj\Debug\net6.0\ChallengeETres.pdb
+C:\Varios\F\Desafios\e-tres\ChallengeETres\obj\Debug\net6.0\ChallengeETres.genruntimeconfig.cache
+C:\Varios\F\Desafios\e-tres\ChallengeETres\obj\Debug\net6.0\ref\ChallengeETres.dll
